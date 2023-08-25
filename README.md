@@ -1,5 +1,4 @@
-# Joy Bali
-Joy Bali（ジョイバリ）<br>
+# Joy Bali（ジョイバリ）
 https://joybali.jp/
 ## 使用言語
 HTML/CSS/Javascript
